@@ -10,7 +10,9 @@ We also include in this repository, the c++ codes used in problem 2.
 They are named: 
 
 double_square.cc
+
 float_square.cc
+
 uint_square.cc
 
 Each generates a square series, but each uses a different c++ data type to store the result. double_square.cc uses double. float_square.cc uses float. And uint_square.cc uses unsigned integer.
