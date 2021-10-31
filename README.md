@@ -3,7 +3,7 @@
 ### Homework 5
 
 #### Problem 1
-We include in this resipotory the images used in the report. The report details how we attempted the problems in the homework.
+We include in this repository the images used in the report. The report details how we attempted the problems in the homework.
 
 #### Problem 2
 We also include in this repository, the c++ codes used in problem 2.
